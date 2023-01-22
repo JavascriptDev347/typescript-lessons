@@ -1,0 +1,17 @@
+{
+  "name": "one_lesson",
+  "version": "1.0.0",
+  "description": "TS lessons",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Rustambek Eshboriyev",
+  "license": "ISC",
+  "dependencies": {
+    "@types/inquirer": "^9.0.3",
+    "inquirer": "^9.1.4",
+    "save-dev": "^0.0.1-security"
+  }
+}
